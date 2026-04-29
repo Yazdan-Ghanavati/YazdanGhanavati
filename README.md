@@ -53,7 +53,7 @@ I focus on designing **end-to-end ML pipelines**, from research and prototyping 
 
 <p align="center">
   <a href="YOUR_WEBSITE_LINK">
-    <img src="logos/website.svg" width="40"/>
+    <img src="logos/home.svg" width="40"/>
   </a>
   <a href="YOUR_LINKEDIN_LINK">
     <img src="logos/linkedin.svg" width="40"/>
