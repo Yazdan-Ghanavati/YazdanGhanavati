@@ -9,7 +9,7 @@ M.Sc. in ICT @ University of Padova 🇮🇹
 
 ## 👨‍💻 About Me
 
-I am an Applied Machine Learning Engineer based in Italy, specializing in building machine learning systems across:
+Based in Italy, specializing in building machine learning systems across:
 
 - 🧠 Biomedical AI  
 - 👁️ Computer Vision  
