@@ -19,34 +19,15 @@ I focus on designing **end-to-end ML pipelines**, from research and prototyping 
 
 ---
 
-## ⭐ Featured Work
 
-### 🤖 Robotics & Vision Systems
-- *(Coming soon...)*
+## 📦 **Featured Datasets**
 
-### 🧠 Generative AI
-- *(Coming soon...)*
+- **Computer Vision:** [ShapeNet](https://shapenet.org/)
+- **Medical:** [COVID-19](https://ourworldindata.org/covid-deaths) | [OCT (Optical Coherence Tomography)](https://www.kaggle.com/datasets/anirudhcv/labeled-optical-coherence-tomography-oct)
+- **Audio & Deepfake Detection:** [ESDD](https://sites.google.com/view/esdd-challenge/datasets?authuser=0)
+- **Information Retrieval:** [IMDB Movie Dataset](https://www.imdb.com/interfaces/](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews#))
 
-### 📊 Data Science & Machine Learning
-- *(Add your strongest repos here)*
-
----
-
-## 📦 Datasets
-
-### 👁️ Computer Vision
-- [ShapeNet](https://shapenet.org/)
-
-### 🏥 Medical Imaging
-- [COVID-19 Dataset](https://ourworldindata.org/covid-deaths)
-- [Labeled Optical Coherence Tomography (OCT)](https://www.kaggle.com/datasets/anirudhcv/labeled-optical-coherence-tomography-oct)
-
-### 🔊 Audio & Deepfake Detection
-- [ESDD (Environmental Sound Deepfake Detection)](https://sites.google.com/view/esdd-challenge/datasets?authuser=0)
-
-### 🎬 Information Retrieval
-- [IMDB Movie Recommender Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews#)
-
+  
 ---
 
 ## 📌 Where to Find Me
@@ -66,14 +47,6 @@ I focus on designing **end-to-end ML pipelines**, from research and prototyping 
   </a>
 </p>
 
----
-
-## 🚀 Current Focus
-
-- Machine Learning for Healthcare  
-- Signal Processing & Biomedical Data  
-- Scalable ML Systems  
-- Applied AI Projects with real-world impact  
 
 ---
 
