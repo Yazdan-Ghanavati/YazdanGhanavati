@@ -38,10 +38,4 @@ I focus on designing **end-to-end ML pipelines**, from research and prototyping 
 
 
 
----
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yazdan-Ghanavati&show_icons=true&hide_border=true"/>
-</p>
