@@ -38,14 +38,14 @@ I focus on designing **end-to-end ML pipelines**, from research and prototyping 
 - [ShapeNet](https://shapenet.org/)
 
 ### 🏥 Medical Imaging
-- [COVID-19 Dataset](#)
-- [Labeled Optical Coherence Tomography (OCT)](#)
+- [COVID-19 Dataset](https://ourworldindata.org/covid-deaths)
+- [Labeled Optical Coherence Tomography (OCT)](https://www.kaggle.com/datasets/anirudhcv/labeled-optical-coherence-tomography-oct)
 
 ### 🔊 Audio & Deepfake Detection
-- [ESDD (Environmental Sound Deepfake Detection)](#)
+- [ESDD (Environmental Sound Deepfake Detection)](https://sites.google.com/view/esdd-challenge/datasets?authuser=0)
 
 ### 🎬 Information Retrieval
-- [IMDB Movie Recommender Dataset](https://www.imdb.com/interfaces/)
+- [IMDB Movie Recommender Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews#)
 
 ---
 
