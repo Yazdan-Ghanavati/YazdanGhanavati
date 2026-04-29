@@ -33,22 +33,9 @@ I focus on designing **end-to-end ML pipelines**, from research and prototyping 
 ## 📌 Where to Find Me
 
 <p align="center">
-  <a href="YOUR_WEBSITE_LINK">
-    <img src="logos/home.svg" width="40"/>
-  </a>
-    &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/yazdan-ghanavati/">
-    <img src="logos/linkedin.svg" width="40"/>
-  </a>
-      &nbsp;&nbsp;
-  <a href="https://github.com/Yazdan-Ghanavati">
-    <img src="logos/github.svg" width="40"/>
-  </a>
-      &nbsp;&nbsp;
-  <a href="YOUR_MEDIUM_LINK">
-    <img src="logos/medium.svg" width="40"/>
-  </a>
+  <a href="https://yazdan-ghanavati.github.io/"><img src="logos/home.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/yazdan-ghanavati/"><img src="logos/linkedin.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/Yazdan-Ghanavati"><img src="logos/github.svg" width="40" /></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="YOUR_MEDIUM_LINK"><img src="logos/medium.svg" width="40" /></a>
 </p>
+
 
 
 ---
