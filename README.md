@@ -22,7 +22,7 @@ I focus on designing **end-to-end ML pipelines**, from research and prototyping 
 
 ## 📦 **Featured Datasets**
 
-- **Computer Vision:** [ShapeNet](https://shapenet.org/)
+- **Computer Vision:** [ShapeNet](https://shapenet.org/) | [ModelNet10](https://www.kaggle.com/datasets/balraj98/modelnet10-princeton-3d-object-dataset)
 - **Medical:** [COVID-19](https://ourworldindata.org/covid-deaths) | [OCT (Optical Coherence Tomography)](https://www.kaggle.com/datasets/anirudhcv/labeled-optical-coherence-tomography-oct)
 - **Audio & Deepfake Detection:** [ESDD](https://sites.google.com/view/esdd-challenge/datasets?authuser=0)
 - **Information Retrieval:** [IMDB Movie Dataset](https://www.imdb.com/interfaces/](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews#))
